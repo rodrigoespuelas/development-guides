@@ -4,6 +4,7 @@
 
 http://rogerdudler.github.io/git-guide/index.es.html   
 https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud 
+https://githowto.com/ 
 
 ### Version de Git
 `git --version`
@@ -41,8 +42,11 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 #### o bien
 `git add .` 
 
-#### Commit
+#### Commit (archivo esta incluído en el HEAD)
 `git commit -m 'Primer commit'` 
+
+#### 
+`git push origin master` 
 
 #### Etiquetas
 `git tag 1.0.0 1b2e1d63ff` 
