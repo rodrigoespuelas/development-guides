@@ -8,10 +8,10 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 ### Version de Git
 `git --version`
 
-repositorio local  
-Directorio de trabajo  
-Index (stage)  
-HEAD  
+### Repositorio Local  
+* Directorio de trabajo  
+* Index (stage)  
+* HEAD  
 
 ### Config
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
