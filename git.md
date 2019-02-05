@@ -49,12 +49,15 @@ https://githowto.com/
 `git push origin master` 
 
 ### 10. History  
+`git log --pretty=oneline` 
 
 #### Etiquetas
 `git tag 1.0.0 1b2e1d63ff`  
 `git log`  
 
-
+### 14. Discarding local changes (before staging)
+### 15. Cancel Staged changes (before committing)
+### 16. Cancelling commits
 
 
 
