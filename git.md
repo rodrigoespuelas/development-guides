@@ -35,3 +35,8 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 #### o bien
 `git add .` 
+
+#### Commit
+`git commit -m 'Primer commit'` 
+
+
