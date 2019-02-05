@@ -3,8 +3,8 @@
 ## Recursos
 
 http://rogerdudler.github.io/git-guide/index.es.html   
-https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud 
-https://githowto.com/ 
+https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud  
+https://githowto.com/  
 
 ### Version de Git
 `git --version`
