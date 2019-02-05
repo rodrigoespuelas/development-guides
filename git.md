@@ -23,5 +23,3 @@ git config --global user.email "rodrigoespuelas@yahoo.es"
 
 ### Clonar Azure DevOps
 `git clone https://rodrigoespuelas.visualstudio.com/test/_git/test` 
-
-
