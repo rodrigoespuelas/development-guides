@@ -52,6 +52,7 @@ https://githowto.com/
 `git log --pretty=oneline` 
 
 ### 13. Tagging versions
+`git tag`  
 `git tag 1.0.0 1b2e1d63ff`  
 `git log`  
 
