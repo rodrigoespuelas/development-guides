@@ -49,8 +49,8 @@ https://githowto.com/
 `git push origin master` 
 
 #### Etiquetas
-`git tag 1.0.0 1b2e1d63ff` 
-`git log` 
+`git tag 1.0.0 1b2e1d63ff`  
+`git log`  
 
 
 
