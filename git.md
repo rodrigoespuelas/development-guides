@@ -9,7 +9,7 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 `git --version`
 
 ### Config
-`git config --global user.name "Rodrigo Espuelas Garmilla"` 
+`git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
 ### Clonar GitLab
