@@ -8,6 +8,8 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 ### Version de Git
 `git --version`
 
-### Clonar
+### Clonar GitLab
 `git clone https://gitlab.com/rodrigoespuelas/aspnet_mvc5_full_version.git`
 
+### Clonar BitBucket
+`git clone https://rodrigoespuelas@bitbucket.org/rodrigoespuelas/test.git`
