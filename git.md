@@ -51,7 +51,7 @@ https://githowto.com/
 ### 10. History  
 `git log --pretty=oneline` 
 
-#### Etiquetas
+### 13. Tagging versions
 `git tag 1.0.0 1b2e1d63ff`  
 `git log`  
 
