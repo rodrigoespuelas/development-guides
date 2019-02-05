@@ -13,3 +13,6 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 ### Clonar BitBucket
 `git clone https://rodrigoespuelas@bitbucket.org/rodrigoespuelas/test.git`
+
+### Clonar Azure DevOps
+`git clone https://rodrigoespuelas.visualstudio.com/test/_git/test` 
