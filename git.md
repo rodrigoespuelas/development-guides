@@ -44,4 +44,13 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 #### Commit
 `git commit -m 'Primer commit'` 
 
+#### Etiquetas
+`git tag 1.0.0 1b2e1d63ff` 
+`git log` 
+
+
+
+
+
+
 
