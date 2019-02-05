@@ -23,3 +23,15 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 ### Clonar Azure DevOps
 `git clone https://rodrigoespuelas.visualstudio.com/test/_git/test` 
+
+### Staging Area
+`git status` 
+
+#### Para añadir un solo archivo
+`git add nombre_del_archivo` 
+ 
+#### Para añadir todo lo que hay en el directorio actual
+`git add --all` 
+
+#### o bien
+`git add .` 
