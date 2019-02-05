@@ -9,8 +9,8 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 `git --version`
 
 ### Config
-git config --global user.name "Rodrigo Espuelas Garmilla" 
-git config --global user.email "rodrigoespuelas@yahoo.es" 
+`git config --global user.name "Rodrigo Espuelas Garmilla"` 
+`git config --global user.email "rodrigoespuelas@yahoo.es"` 
 
 ### Clonar GitLab
 `git clone https://gitlab.com/rodrigoespuelas/aspnet_mvc5_full_version.git`
