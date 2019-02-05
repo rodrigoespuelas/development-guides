@@ -14,7 +14,7 @@ https://githowto.com/
 * Index (stage)  
 * HEAD  
 
-### Config
+### 1. Preparation
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
