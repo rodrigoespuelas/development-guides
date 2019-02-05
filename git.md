@@ -8,10 +8,8 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 ### Version de Git
 `git --version`
 
-# Indicar nuestro nombre
+### Config
 git config --global user.name "Rodrigo Espuelas Garmilla"
- 
-# Indicar nuestro correo electrónico
 git config --global user.email "rodrigoespuelas@yahoo.es"
 
 ### Clonar GitLab
