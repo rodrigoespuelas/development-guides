@@ -34,16 +34,14 @@ https://githowto.com/
 `git status` 
 
 
-`# On branch master (rama principal)` 
-`# Changes not staged for commit:` 
-`#   (use "git add <file>..." to update what will be committed)` 
-`#   (use "git checkout -- <file>..." to discard changes in working directory)` 
-`#` 
-`#   modified:   hello.html` 
-`#` 
-`no changes added to commit (use "git add" and/or "git commit -a")` 
-
-`On branch master`   
+`# On branch master (rama principal)`   
+`# Changes not staged for commit:`   
+`#   (use "git add <file>..." to update what will be committed)`   
+`#   (use "git checkout -- <file>..." to discard changes in working directory)`   
+`#`   
+`#   modified:   hello.html`   
+`#`   
+`no changes added to commit (use "git add" and/or "git commit -a")`   
 
 #### Para añadir un solo archivo
 `git add nombre_del_archivo` 
