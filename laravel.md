@@ -1,5 +1,11 @@
 # LARAVEL
 
+composer install
+.env
+composer dump-autoload
+php artisan migrate:fresh
+
+
 ## Recursos
 
 https://plataforma.keepcoding.io/  
