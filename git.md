@@ -33,6 +33,8 @@ https://githowto.com/
 ### Staging Area
 `git status` 
 
+On branch master (rama principal)  
+
 #### Para añadir un solo archivo
 `git add nombre_del_archivo` 
  
