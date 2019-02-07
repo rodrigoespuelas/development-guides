@@ -55,6 +55,9 @@ https://githowto.com/
 #### Commit (archivo esta incluído en el HEAD)
 `git commit -m 'Primer commit'` 
 
+#### Rectificar commit: git commit –amend
+`git commit --amend -m "Nuevo mensaje corregido para el commit"` 
+
 #### 
 `git push origin master` 
 
