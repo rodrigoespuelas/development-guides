@@ -1,9 +1,9 @@
 # LARAVEL
 
-composer install
-.env
-composer dump-autoload
-php artisan migrate:fresh
+composer install  
+.env  
+composer dump-autoload  
+php artisan migrate:fresh  
 
 
 ## Recursos
