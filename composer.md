@@ -2,8 +2,9 @@
 ### Instalación
 `composer install --no-dev`  
 
-### Updating packages
-composer install --no-dev
-
-### Universal Update
+#### Universal Updating packages  
 `composer update` 
+`composer update --no-dev` 
+
+#### Package-specific Update  
+`composer update vendor/package vendor2/package2` 
