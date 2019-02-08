@@ -1,4 +1,7 @@
 
+
+https://www.codementor.io/tips/1196438172/recommended-gitignore-for-php-web-projects
+
 ### Instalación
 `composer install --no-dev`  
 
