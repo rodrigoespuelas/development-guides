@@ -30,6 +30,9 @@ https://github.com/laravel/laravel
 ### Crear un middleware para verificiar si el usuario tiene una sesión
 `php artisan make:middleware HasUserASession`
 
+### Para cambiar el namespace de la aplicación:
+`php artisan app:name nombre-namespace`
+
 ### Crear modelo Post
 `php artisan make:model Post`
 
