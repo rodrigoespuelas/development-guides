@@ -20,8 +20,11 @@ https://laraveles.com/documentacion/
 
 https://github.com/laravel/laravel
 
+#### Saber la versión de Laravel  
+`php artisan --version`  
+
 ### Local Development Server
-`php artisan serve`
+`php artisan serve`  
 
 ### Generar una llave para hashing
 `php artisan key:generate`
