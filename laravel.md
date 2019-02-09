@@ -43,6 +43,6 @@ https://github.com/laravel/laravel
 ### Crear el controlador PostsController compatible con REST (resource) 
 `php artisan make:controller PostsController --resource` 
 
-### Listado complete de rutas
+### Listado completo de rutas
 `php artisan route:list` 
 
