@@ -12,10 +12,11 @@ https://plataforma.keepcoding.io/
 https://ajgallego.gitbooks.io/laravel-5/  
 https://laraveles.com/documentacion/  
 
-## Instalación
 `composer global require "laravel/installer"`  
+`laravel new blog`  
+
+## Instalación Via Composer Create-Project  
 `composer create-project --prefer-dist laravel/laravel blog "5.5.*"`  
-`laravel new blog`
 
 https://github.com/laravel/laravel
 
