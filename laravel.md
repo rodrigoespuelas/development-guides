@@ -37,5 +37,8 @@ https://github.com/laravel/laravel
 `php artisan make:migration create_posts_table --create posts`  
 `php artisan migrate`
 
+### Crear el controlador PostsController
+php artisan make:controller PostController --plain
+
 ### Crear el controlador PostsController compatible con REST (resource) 
 `php artisan make:controller PostsController --resource`
