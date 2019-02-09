@@ -46,3 +46,7 @@ https://github.com/laravel/laravel
 ### Listado completo de rutas
 `php artisan route:list` 
 
+### Modo mantenimiento
+`php artisan down`    
+`php artisan up`   
+
