@@ -41,4 +41,8 @@ https://github.com/laravel/laravel
 `php artisan make:controller PostController --plain`
 
 ### Crear el controlador PostsController compatible con REST (resource) 
-`php artisan make:controller PostsController --resource`
+`php artisan make:controller PostsController --resource` 
+
+### Listado complete de rutas
+`php artisan route:list` 
+
