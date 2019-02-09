@@ -15,7 +15,7 @@ https://laraveles.com/documentacion/
 `composer global require "laravel/installer"`  
 `laravel new blog`  
 
-## Instalación Via Composer Create-Project  
+#### Instalación Via Composer Create-Project  
 `composer create-project --prefer-dist laravel/laravel blog "5.5.*"`  
 
 https://github.com/laravel/laravel
