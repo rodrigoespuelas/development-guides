@@ -20,7 +20,7 @@ https://githowto.com/
 
 #### Comprobando la configuración  
 `git config --list`  
-`git config --global user.email`  
+`git config user.name`  
 
 ### Clonar GitLab
 `git clone https://gitlab.com/rodrigoespuelas/test.git`
