@@ -18,8 +18,9 @@ https://githowto.com/
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
-####
-`git config --global user.email`    
+#### Comprobando la configuración
+`git config --list` 
+`git config --global user.email`   
 
 ### Clonar GitLab
 `git clone https://gitlab.com/rodrigoespuelas/test.git`
