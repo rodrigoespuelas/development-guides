@@ -19,7 +19,7 @@ https://githowto.com/
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
 ### Clonar GitLab
-`git clone https://gitlab.com/rodrigoespuelas/aspnet_mvc5_full_version.git`
+`git clone https://gitlab.com/rodrigoespuelas/test.git`
 
 ### Clonar BitBucket
 `git clone https://rodrigoespuelas@bitbucket.org/rodrigoespuelas/test.git`
