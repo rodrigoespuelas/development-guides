@@ -86,7 +86,7 @@ https://code.tutsplus.com/es/tutorials/quick-tip-leveraging-the-power-of-git-sta
 ##### 1. Stasheando cambios  
 `git stash`   
 
-##### 2. Stasheando cambios
-
+##### 2. Re-aplicando cambios stasheados
+`git stash pop`  
 
 
