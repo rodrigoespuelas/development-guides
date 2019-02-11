@@ -79,6 +79,11 @@ https://code.tutsplus.com/es/tutorials/quick-tip-leveraging-the-power-of-git-sta
 ### 15. Cancel Staged changes (before committing)
 ### 16. Cancelling commits
 
+#### Git Stash  
+##### remover los cambios que no se han commiteado.  
+`git reset --hard`   
+
+`git stash`   
 
 
 
