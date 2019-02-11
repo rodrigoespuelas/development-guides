@@ -6,6 +6,7 @@ https://githowto.com/
 http://rogerdudler.github.io/git-guide/index.es.html   
 https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud  
 https://git-scm.com/book/es/v1/  
+https://code.tutsplus.com/es/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988  
 
 ### Version de Git
 `git --version`
