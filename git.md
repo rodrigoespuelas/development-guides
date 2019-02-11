@@ -83,8 +83,10 @@ https://code.tutsplus.com/es/tutorials/quick-tip-leveraging-the-power-of-git-sta
 ##### remover los cambios que no se han commiteado.  
 `git reset --hard`   
 
+##### 1. Stasheando cambios  
 `git stash`   
 
+##### 2. Stasheando cambios
 
 
 
