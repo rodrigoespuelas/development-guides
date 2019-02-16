@@ -135,7 +135,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git stash pop`  
 
 ### 20. Moving files  
-`mkdir lib`  
-`git mv hello.html lib` 
-`git status`  
-`git commit -m "Moved hello.html to lib"` 
+`mkdir lib`    
+`git mv hello.html lib`     
+`git status`    
+`git commit -m "Moved hello.html to lib"`   
