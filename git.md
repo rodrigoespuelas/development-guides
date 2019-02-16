@@ -146,6 +146,8 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ###### 2. Re-aplicando cambios stasheados
 `git stash pop`  
 
+
+
 ##### 20. Moving files  
 `mkdir lib`    
 `git mv hello.html lib`     
@@ -154,6 +156,8 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 
 ##### 24. Creating a Branch
 `git checkout -b feature_x`   
+###### Volver a la rama principal
+`git checkout master`   
 ###### Borra la rama
 `git branch -d feature_x`   
 
@@ -176,6 +180,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ##### 39. What is origin?  
 `git remote show origin`        
 
-##### Datos útiles  
+###### Optimizar el repositorio
+`git gc`        
 
 
