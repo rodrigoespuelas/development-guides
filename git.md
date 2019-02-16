@@ -139,15 +139,14 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 `git tag 1.0.0 1b2e1d63ff`  
 `git log`  
 
-### 14. Discarding local changes (before staging)
-### 15. Cancel Staged changes (before committing)
+##### 14. Discarding local changes (before staging)
+##### 15. Cancel Staged changes (before committing)
 `git reset HEAD [archivo que no quiero que esté en el commit]`  
 ### 16. Cancelling commits
-
+`git checkout ffd325d`  
 ##### Git Stash  
 ###### remover los cambios que no se han commiteado.  
 `git reset --hard`   
-
 ###### Stasheando cambios  
 `git stash`   
 ###### Re-aplicando los ultimos cambios stasheados
