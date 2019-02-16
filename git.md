@@ -142,7 +142,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ##### 2. Re-aplicando cambios stasheados
 `git stash pop`  
 
-### 20. Moving files  
+##### 20. Moving files  
 `mkdir lib`    
 `git mv hello.html lib`     
 `git status`    
@@ -160,7 +160,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git merge master`         
 `git hist --all`        
 
-### 35. Merging to the Master branch
+##### 35. Merging to the Master branch
 `git checkout master`        
 `git merge style`       
 
