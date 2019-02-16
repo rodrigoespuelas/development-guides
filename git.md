@@ -168,4 +168,8 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git clone test test_copy`        
 `git remote`        
 
+##### 39. What is origin?  
+`git remote show origin`        
+
+
 
