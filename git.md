@@ -140,13 +140,12 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ###### remover los cambios que no se han commiteado.  
 `git reset --hard`   
 
-###### 1. Stasheando cambios  
+###### Stasheando cambios  
 `git stash`   
-
-###### 2. Re-aplicando cambios stasheados
+###### Re-aplicando cambios stasheados
 `git stash pop`  
-
-
+###### Pila de stash
+`git stash list`  
 
 ##### 20. Moving files  
 `mkdir lib`    
