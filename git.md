@@ -162,4 +162,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 
 ### 35. Merging to the Master branch
 `git checkout master`        
-`git merge style`        
+`git merge style`       
+
+### 37. Cloning repositories  
+`git clone hello cloned_hello`        
