@@ -144,3 +144,6 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git checkout -b style`    
 `git status`   
 
+### 25. Navigating Branches  
+`git hist --all`    
+
