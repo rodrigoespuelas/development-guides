@@ -2,7 +2,7 @@
 
 ## Recursos
 
-https://githowto.com/ 
+https://githowto.com/  
 https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code  
 
 http://rogerdudler.github.io/git-guide/index.es.html   
