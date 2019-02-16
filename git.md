@@ -71,6 +71,8 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ### 10. History  
 `git log --pretty=oneline` 
 
+### 12. Getting older versions  
+
 ### 13. Tagging versions
 `git tag`  
 `git tag 1.0.0 1b2e1d63ff`  
