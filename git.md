@@ -144,6 +144,12 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 `git reset HEAD [archivo que no quiero que esté en el commit]`  
 ### 16. Cancelling commits
 `git checkout ffd325d`  
+
+###### Deshacer el commit perdiendo las modificaciones
+`git reset --hard HEAD~1`    
+###### Deshacer el commit manteniendo las modificaciones
+git reset HEAD~1
+
 ##### Git Stash  
 ###### remover los cambios que no se han commiteado.  
 `git reset --hard`   
