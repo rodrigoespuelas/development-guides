@@ -26,6 +26,9 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
+###### Eliminar el valor de la configuración en el repositorio local
+`git config --unset core.autocrlf`  
+
 ###### Visual Studio Code 
 `git config --global core.editor "code --wait"`  
 
