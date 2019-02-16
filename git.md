@@ -11,6 +11,8 @@ https://es.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 https://git-scm.com/book/es/v1/  
 https://code.tutsplus.com/es/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988  
 https://es.atlassian.com/git/tutorials/undoing-changes  
+https://www.hostinger.es/tutoriales/comandos-de-git
+https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 
 ### Version de Git
 `git --version`
