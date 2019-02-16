@@ -216,3 +216,7 @@ git reset --soft Quita un cambio, pero lo mantiene en el Stage.
 git reset --mixed Quita un cambio, lo quita del stage. Los mantiene en el working directory
 git reset --hard Quita un cambio, los borra totalmente, pero si tienes guardado el hash1, lo puedes recuperar
 git checkout [branch] Nos permite pasearnos entre los branchs (ramas), tambien crearlas.
+
+
+
+
