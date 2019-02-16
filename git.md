@@ -164,7 +164,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git checkout master`        
 `git merge style`       
 
-### 37. Cloning repositories (Copia 'test_copy' local apuntando a 'test')  
+##### 37. Cloning repositories (Copia 'test_copy' local apuntando a 'test')  
 `git clone test test_copy`        
 `git remote`        
 
