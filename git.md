@@ -38,7 +38,7 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 `git config --global diff.tool meld`    
 `git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`    
 
-###### Meld
+###### ?
 
 #### Comprobando la configuración  
 `git config --list`  
@@ -148,7 +148,7 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 ###### Deshacer el commit perdiendo las modificaciones
 `git reset --hard HEAD~1`    
 ###### Deshacer el commit manteniendo las modificaciones
-git reset HEAD~1
+`git reset HEAD~1`    
 
 ##### Git Stash  
 ###### remover los cambios que no se han commiteado.  
