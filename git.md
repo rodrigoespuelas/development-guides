@@ -55,9 +55,10 @@ https://es.atlassian.com/git/tutorials/undoing-changes
  
 #### Para añadir todo lo que hay en el directorio actual
 `git add --all` 
-
-#### o bien
 `git add .` 
+
+#### Para añadir solo los que estan trackeados
+`git add -A` 
 
 #### Commit (archivo esta incluído en el HEAD)
 `git commit -m 'Primer commit'` 
