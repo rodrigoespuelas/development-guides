@@ -73,6 +73,10 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 #### 
 `git push origin master` 
 
+####
+`git rm "file"` o `git mv "file"` 
+`git commit -m "..."` 
+
 ### 7. Staging and committing  
 `git add a.html`  
 `git add b.html`  
