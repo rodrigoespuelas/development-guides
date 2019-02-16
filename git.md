@@ -147,3 +147,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ### 25. Navigating Branches  
 `git hist --all`    
 
+### 28. Merging
+`git checkout style`         
+`git merge master`         
+`git hist --all`        
