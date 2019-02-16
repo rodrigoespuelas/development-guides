@@ -153,3 +153,9 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git checkout style`         
 `git merge master`         
 `git hist --all`        
+
+######### 
+git config --global merge.tool meld  
+git config --global diff.tool meld  
+git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"  
+
