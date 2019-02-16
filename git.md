@@ -92,6 +92,9 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git add c.html`  
 `git commit -m "Unrelated change to c"`  
 
+###### Agregar archivos de forma interactiva  
+`git add -i`  
+
 ### 8. Commiting the changes  
 
 ### 9. Changes, not files  
