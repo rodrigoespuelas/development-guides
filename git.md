@@ -192,6 +192,7 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ###### Optimizar el repositorio
 `git gc`        
 
+##### Comandos básicos
 * git add [archivo] Agrega el archivo al Stage
 * git rm --cached [archivo] Quita el archivo del Stage
 * git add -A Agrega todos los archivos al Stage
