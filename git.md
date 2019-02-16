@@ -92,7 +92,13 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git config --global alias.dump 'cat-file -p'`   
 
 ### 12. Getting older versions  
-
+##### Getting hashes for the previous versions
+`git hist`   
+`git checkout <hash>`   
+##### Returning to the latest version in the master branch
+`git checkout master`   
+`cat hello.html`     
+ 
 ### 13. Tagging versions
 `git tag`  
 `git tag 1.0.0 1b2e1d63ff`  
