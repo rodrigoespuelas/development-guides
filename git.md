@@ -73,6 +73,8 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 #### 
 `git push origin master` 
 
+### 9. Changes, not files
+
 ### 10. History  
 `git log`   
 `git log --pretty=oneline`   
