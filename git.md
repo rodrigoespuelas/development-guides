@@ -74,7 +74,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git push origin master` 
 
 ####
-`git rm "file"` o `git mv "file"` 
+`git rm "file"` o `git mv "file"`   
 `git commit -m "..."` 
 
 ### 7. Staging and committing  
@@ -91,6 +91,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ### 10. History  
 `git log`   
 `git log --pretty=oneline`   
+`git log --pretty=oneline --graph`     
 
 `git log --pretty=oneline --max-count=2`   
 `git log --pretty=oneline --since='5 minutes ago'`   
