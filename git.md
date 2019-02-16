@@ -139,3 +139,8 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git mv hello.html lib`     
 `git status`    
 `git commit -m "Moved hello.html to lib"`   
+
+### 24. Creating a Branch
+`git checkout -b style`    
+`git status`   
+
