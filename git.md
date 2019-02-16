@@ -192,30 +192,30 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ###### Optimizar el repositorio
 `git gc`        
 
-git add [archivo] Agrega el archivo al Stage
-git rm --cached [archivo] Quita el archivo del Stage
-git add -A Agrega todos los archivos al Stage
-git rm -f [archivo] Quita los archivos del Stage y borrarlos
-git commit -m "[mensaje]" Realiza commit al archivo y envia un mensaje para saber que se hizo ejm. ‘Iniciar nuestro landing’
-git log Muestra el historial de todos los commit que hemos realizado
-git log --oneline Version resumida del historial
-git log -[numero] Muestra la cantidad de commits segun el numero que indiques
-git commit --amend Anexa al ultimo commit, un cambio que hayamos olvidado hacer.
-git tag -a [version] -m "[mensaje]" Crea un tag (etiqueta) a el último commit realizado
-git tag [version] [hash1] Crear un tag a un hash especifico
-git tag -l Muestra todos los tag
-git tag -d [version] Elimina el tag
-git branch [nombre] Crea una nueva rama (Master también se considera una rama)
-git branch -l Lista todas las ramas que tienes
-git branch -d Borra la rama si esta esta vacía.
-git branch -D Borra la rama aún asi esta contenga información.
-git branch -m [NombreActual][NombreNuevo] Cambia de nombre a una rama
-git config --list Muestras todas las propiedades que git a configurado
-git diff [hash1] Muestra las diferencias entre el hash que has puesto con el ultimo que tenemos
-git reset --soft Quita un cambio, pero lo mantiene en el Stage.
-git reset --mixed Quita un cambio, lo quita del stage. Los mantiene en el working directory
-git reset --hard Quita un cambio, los borra totalmente, pero si tienes guardado el hash1, lo puedes recuperar
-git checkout [branch] Nos permite pasearnos entre los branchs (ramas), tambien crearlas.
+* git add [archivo] Agrega el archivo al Stage
+* git rm --cached [archivo] Quita el archivo del Stage
+* git add -A Agrega todos los archivos al Stage
+* git rm -f [archivo] Quita los archivos del Stage y borrarlos
+* git commit -m "[mensaje]" Realiza commit al archivo y envia un mensaje para saber que se hizo ejm. ‘Iniciar nuestro landing’
+* git log Muestra el historial de todos los commit que hemos realizado
+* git log --oneline Version resumida del historial
+* git log -[numero] Muestra la cantidad de commits segun el numero que indiques
+* git commit --amend Anexa al ultimo commit, un cambio que hayamos olvidado hacer.
+* git tag -a [version] -m "[mensaje]" Crea un tag (etiqueta) a el último commit realizado
+* git tag [version] [hash1] Crear un tag a un hash especifico
+* git tag -l Muestra todos los tag
+* git tag -d [version] Elimina el tag
+* git branch [nombre] Crea una nueva rama (Master también se considera una rama)
+* git branch -l Lista todas las ramas que tienes
+* git branch -d Borra la rama si esta esta vacía.
+* git branch -D Borra la rama aún asi esta contenga información.
+* git branch -m [NombreActual][NombreNuevo] Cambia de nombre a una rama
+* git config --list Muestras todas las propiedades que git a configurado
+* git diff [hash1] Muestra las diferencias entre el hash que has puesto con el ultimo que tenemos
+* git reset --soft Quita un cambio, pero lo mantiene en el Stage.
+* git reset --mixed Quita un cambio, lo quita del stage. Los mantiene en el working directory
+* git reset --hard Quita un cambio, los borra totalmente, pero si tienes guardado el hash1, lo puedes recuperar
+* git checkout [branch] Nos permite pasearnos entre los branchs (ramas), tambien crearlas.
 
 
 
