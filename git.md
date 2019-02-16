@@ -23,10 +23,10 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 * HEAD  
 
 ### 1. Preparation
-global gitconfig file is located in C:\Users\MyLogin\.gitconfig  
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
-
+###### global .gitconfig file is located in:
+C:\Users\MyLogin\.gitconfig  
 ###### Eliminar el valor de la configuración en el repositorio local
 `git config --unset core.autocrlf`  
 
