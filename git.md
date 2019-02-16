@@ -74,8 +74,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 `git push origin master` 
 
 ####
-`git rm "file"` o `git mv "file"`   
-`git commit -m "..."` 
+
 
 ### 7. Staging and committing  
 `git add a.html`  
@@ -135,4 +134,8 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ##### 2. Re-aplicando cambios stasheados
 `git stash pop`  
 
-
+### 20. Moving files  
+`mkdir lib`  
+`git mv hello.html lib` 
+`git status`  
+`git commit -m "Moved hello.html to lib"` 
