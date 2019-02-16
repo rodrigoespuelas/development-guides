@@ -184,6 +184,11 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git checkout master`        
 `git merge style`       
 
+* LOCAL – este es el archivo de la rama actual
+* BASE – ancestro común, cómo archivo buscado antes de que ambos cambios
+* REMOTO – el archivo está en la fusión de su filial
+* FUSIONADO – resultado de la fusión, esto es lo que se guarda en la repo
+
 ##### 37. Cloning repositories (Copia 'test_copy' local apuntando a 'test')  
 `git clone test test_copy`        
 `git remote`        
