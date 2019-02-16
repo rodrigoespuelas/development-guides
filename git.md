@@ -141,6 +141,7 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 
 ### 14. Discarding local changes (before staging)
 ### 15. Cancel Staged changes (before committing)
+`git reset HEAD [archivo que no quiero que esté en el commit]`  
 ### 16. Cancelling commits
 
 ##### Git Stash  
