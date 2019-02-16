@@ -65,6 +65,7 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 
 #### Commit (archivo esta incluído en el HEAD)
 `git commit -m 'Primer commit'` 
+`git commit -a -m 'Primer commit'` 
 
 #### Rectificar commit: git commit –amend
 `git commit --amend -m "Nuevo mensaje corregido para el commit"` 
