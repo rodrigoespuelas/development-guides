@@ -26,6 +26,12 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ###### Visual Studio Code 
 `git config --global core.editor "code --wait"`  
 
+###### Meld
+`git config --global merge.tool meld`   
+git config --global diff.tool meld`    
+git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`    
+
+
 #### Comprobando la configuración  
 `git config --list`  
 `git config user.name`  
@@ -149,13 +155,11 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ### 25. Navigating Branches  
 `git hist --all`    
 
-### 28. Merging
+### 28. Merging ?
 `git checkout style`         
 `git merge master`         
 `git hist --all`        
 
-#########  
-git config --global merge.tool meld  
-git config --global diff.tool meld  
-git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"  
-
+### 35. Merging to the Master branch
+`git checkout master`        
+`git merge style`        
