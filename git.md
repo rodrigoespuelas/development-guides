@@ -35,8 +35,8 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 
 ###### Meld (Diff & Merge)
 `git config --global merge.tool meld`   
-git config --global diff.tool meld`    
-git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`    
+`git config --global diff.tool meld`    
+`git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`    
 
 ###### Meld
 
