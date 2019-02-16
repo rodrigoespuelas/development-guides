@@ -136,14 +136,14 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ### 15. Cancel Staged changes (before committing)
 ### 16. Cancelling commits
 
-#### Git Stash  
-##### remover los cambios que no se han commiteado.  
+##### Git Stash  
+###### remover los cambios que no se han commiteado.  
 `git reset --hard`   
 
-##### 1. Stasheando cambios  
+###### 1. Stasheando cambios  
 `git stash`   
 
-##### 2. Re-aplicando cambios stasheados
+###### 2. Re-aplicando cambios stasheados
 `git stash pop`  
 
 ##### 20. Moving files  
