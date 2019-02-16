@@ -142,10 +142,15 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 
 ###### Stasheando cambios  
 `git stash`   
-###### Re-aplicando cambios stasheados
+###### Re-aplicando los ultimos cambios stasheados
 `git stash pop`  
-###### Pila de stash
+`git stash apply stash@{1}`  
+###### Listar la pila de stash  
 `git stash list`  
+###### Aplicar un stash
+`git stash apply stash@{1}`  
+###### Borrar un stash
+`git stash drop stash@{1}`  
 
 ##### 20. Moving files  
 `mkdir lib`    
