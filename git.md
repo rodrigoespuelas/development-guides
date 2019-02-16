@@ -129,7 +129,10 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 ### 12. Getting older versions  
 ##### Getting hashes for the previous versions
 `git hist`   
+`git checkout HEAD prueba.txt`  
+`git checkout 55df4c2 prueba.txt`  
 `git checkout <hash>`   
+
 ##### Returning to the latest version in the master branch
 `git checkout master`   
 `cat hello.html`     
