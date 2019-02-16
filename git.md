@@ -22,6 +22,8 @@ https://es.atlassian.com/git/tutorials/undoing-changes
 ### 1. Preparation
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
+
+###### Visual Studio Code 
 `git config --global core.editor "code --wait"`  
 
 #### Comprobando la configuración  
