@@ -23,6 +23,7 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 * HEAD  
 
 ### 1. Preparation
+global gitconfig file is located in C:\Users\MyLogin\.gitconfig  
 `git config --global user.name "Rodrigo Espuelas Garmilla"`  
 `git config --global user.email "rodrigoespuelas@yahoo.es"`  
 
@@ -32,11 +33,12 @@ https://frontendlabs.io/940--la-importancia-del-comando-git-stash-en-un-proyecto
 ###### Visual Studio Code 
 `git config --global core.editor "code --wait"`  
 
-###### Meld
+###### Meld (Diff & Merge)
 `git config --global merge.tool meld`   
 git config --global diff.tool meld`    
 git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`    
 
+###### Meld
 
 #### Comprobando la configuración  
 `git config --list`  
