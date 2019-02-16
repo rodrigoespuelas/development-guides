@@ -152,9 +152,10 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 `git status`    
 `git commit -m "Moved hello.html to lib"`   
 
-### 24. Creating a Branch
-`git checkout -b style`    
-`git status`   
+##### 24. Creating a Branch
+`git checkout -b feature_x`   
+###### Borra la rama
+`git branch -d feature_x`   
 
 ### 25. Navigating Branches  
 `git hist --all`    
@@ -175,5 +176,6 @@ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"`
 ##### 39. What is origin?  
 `git remote show origin`        
 
+##### Datos útiles  
 
 
