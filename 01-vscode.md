@@ -4,12 +4,12 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 #### Extensiones
 
 #### Otros
-[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 ##### GIT
 [GitLens](https://gitlens.amod.io/)
 ##### PHP
-`Bracket Pair Colorizer (coenraads.bracket-pair-colorizer)`  
-PHP Intellisense - Crane (hvyindustries.crane)
+`[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)`
+[PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane)
 PHP Intelephense (bmewburn.vscode-intelephense-client)
 
 ##### Laravel
