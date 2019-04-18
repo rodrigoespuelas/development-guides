@@ -1,14 +1,20 @@
 #### Teclas
-
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf  
 ~~~~ 
 Objetivo:
     Ordenar las <li>
 Tips:
-    ⌥ ↓ / ⌥ ↑
     Alt + ↑ / ↓
 ~~~~
 
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+~~~~ 
+Objetivo:
+    Comentar bloques
+Tips:
+
+    Ctrl + /
+    Shift + Alt + A
+~~~~
 
 #### Extensiones
 
