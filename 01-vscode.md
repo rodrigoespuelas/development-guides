@@ -2,6 +2,9 @@
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 #### Extensiones
+
+#### Otros
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 ##### GIT
 [GitLens](https://gitlens.amod.io/)
 ##### PHP
