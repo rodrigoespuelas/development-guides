@@ -22,8 +22,18 @@ Tips:
     Ctrl + click derecho  
 ~~~~    
 **<script src="assets/js/app.js"></script>**
-
-
+~~~~    
+Objetivo:
+    Clonar línea
+Tips:
+    * Puede cambiar, revisar los shortcuts
+    ⇧ ⌥ D
+    Ctrl + D
+Pro: (Revisar shortcuts)
+    Copy line down
+    ⌘ K ⌘ S
+    Ctrl + K Ctrl + S
+~~~~    
 
 #### Extensiones
 
