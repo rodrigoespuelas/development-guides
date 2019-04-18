@@ -20,8 +20,9 @@ Objetivo
     Crear archivo app.js
 Tips:
     Ctrl + click derecho  
+~~~~    
 **<script src="assets/js/app.js"></script>**
-~~~~
+
 
 
 #### Extensiones
