@@ -2,7 +2,7 @@
 
 #### Extensiones
 ##### GIT
-[GitLens](https://gitlens.amod.io/ target="_blank)
+[GitLens](https://gitlens.amod.io/)
 ##### PHP
 Bracket Pair Colorizer (coenraads.bracket-pair-colorizer)
 PHP Intellisense - Crane (hvyindustries.crane)
