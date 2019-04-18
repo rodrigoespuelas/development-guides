@@ -1,8 +1,4 @@
-
-
-#### Extensiones GIT  
-https://gitlens.amod.io/
-
+#### Teclas
 
 #### Extensiones
 ##### GIT
