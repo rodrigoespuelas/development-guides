@@ -2,19 +2,27 @@
 [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
 ~~~~ 
 Objetivo:
-    Ordenar las <li>
+    Ordenar las <li>, lineas
 Tips:
     Alt + ↑ / ↓
 ~~~~
-
 ~~~~ 
 Objetivo:
     Comentar bloques
 Tips:
-
     Ctrl + /
     Shift + Alt + A
 ~~~~
+~~~~ 
+Objetivo
+    Crear carpeta assets
+    Crear carpeta js
+    Crear archivo app.js
+Tips:
+    Ctrl + click derecho  
+<script src="assets/js/app.js"></script>
+~~~~
+
 
 #### Extensiones
 
