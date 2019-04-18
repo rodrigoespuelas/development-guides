@@ -30,9 +30,15 @@ Tips:
     Ctrl + D
 Pro: (Revisar shortcuts)
     Copy line down
-    ⌘ K ⌘ S
     Ctrl + K Ctrl + S
 ~~~~    
+~~~~    
+Objetivo:
+    Crear múltiples cursores para editar
+Tips:
+    Ctrl + Alt+ ↑ / ↓
+~~~~    
+
 
 #### Extensiones
 
