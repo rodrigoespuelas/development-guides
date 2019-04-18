@@ -1,5 +1,5 @@
 #### Teclas
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf  
+[Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
 ~~~~ 
 Objetivo:
     Ordenar las <li>
