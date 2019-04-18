@@ -1,12 +1,12 @@
 #### Teclas
 
-<!--
-    Objetivo:
-        Ordenar las <li>
-    Tips:
-        ⌥ ↓ / ⌥ ↑
-        Alt + ↑ / ↓
--->
+~~~~ 
+Objetivo:
+    Ordenar las <li>
+Tips:
+    ⌥ ↓ / ⌥ ↑
+    Alt + ↑ / ↓
+~~~~
 
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
