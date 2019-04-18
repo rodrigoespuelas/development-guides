@@ -2,7 +2,7 @@
 [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
 ~~~~ 
 Objetivo:
-    Ordenar las <li>, lineas
+    Ordenar <li> o lineas
 Tips:
     Alt + ↑ / ↓
 ~~~~
