@@ -27,7 +27,6 @@ Objetivo:
     Clonar línea
 Tips:
     * Puede cambiar, revisar los shortcuts
-    ⇧ ⌥ D
     Ctrl + D
 Pro: (Revisar shortcuts)
     Copy line down
