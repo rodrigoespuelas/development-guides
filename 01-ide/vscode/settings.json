@@ -1,0 +1,113 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Show whitespace characters in Visual Studio Code
+    "editor.renderWhitespace":"boundary",
+
+    // Characters that will be used as word separators when doing word related navigations or operations
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+
+    //// PHP Intellisense
+    // The path to a PHP 7+ executable.
+    "php.executablePath": "C:/xampp_729/php/php.exe",
+    // php.suggest.basic to false to disable VS Code's built-in php code completion and avoid duplicate suggestions.
+    "php.suggest.basic": false,
+
+    //// PHP validation
+    "php.validate.enable": true,
+    "php.validate.executablePath": "C:/xampp_728/php/php.exe",
+    "php.validate.run": "onType",
+
+    "files.autoSave": "afterDelay",
+
+    //// Begin Laravel Configuration
+    // https: //medium.com/@rohan_78316/how-to-setup-visual-studio-code-for-laravel-php-276643c3013c
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "blade": "html",
+        "razor": "html",
+        "javascript": "html",
+    },
+    //// End Laravel Configuration
+
+    //// Begin Drupal Code Standards Configuration
+    // https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code
+    // https://www.drupal.org/docs/develop/development-tools/configuring-vscode
+    "css.validate": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.tabSize": 2,
+    "editor.autoIndent": true,
+    "editor.insertSpaces": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.wordWrapColumn": 80,
+    "editor.wordWrap": "off",
+    "editor.detectIndentation": true,
+    "files.associations": {
+        // this is super important, otherwise intelephense will not auto-index your project.
+        "*.php": "php",
+        "*.tpl.php": "php",
+        "*.inc": "php",
+        "*.module": "php",
+        "*.install": "php",
+        "*.theme": "php",
+        "*.info": "php",
+        "*.test": "php",
+        "*.make": "php",
+        "*.profile": "php",
+        "*.engine": "php",
+    },
+    "html.format.enable": true,
+    "html.format.wrapLineLength": 80,
+    //// End Drupal Code Standards Configuration
+
+    "breadcrumbs.enabled": true,
+    //"breadcrumbs.filePath":"last",
+    //"breadcrumbs.symbolPath":"on",
+    "editor.minimap.enabled": true,
+    "editor.renderControlCharacters": true,
+
+    // Exclude Files from the Visual Studio Code File Explorer
+    "files.exclude":{
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,         //Mercurial
+        "**/CVS": true,
+        "**/.DS_Store": true,   //Mac
+        "**/vendor": true,
+    },
+
+    // Hide or Exclude Folders and Files From Search in Visual Studio Code
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/._*": true,
+    },
+
+    // Wordpress Exclude
+    // https://daveredfern.com/2017/hide-or-exclude-folders-and-files-from-search-in-visual-studio-code/
+    // "files.exclude": {
+    //     "*/**/node_modules/": true,
+    //     "wp-includes/": true,
+    //     "wp-admin/": true,
+    //     //"wp-*.*": true,
+    //     "wp-config.*": false,
+    //     "xmlrpc.php": true,
+    //     ".vscode/": true,
+    //     "*/**/cache/": true,
+    //     "*/**/uploads/": true,
+    //     "*/**/infinitewp/": true,
+    //     "*/**/.github/": true,
+    //     //"*/**/build/": true
+    // },
+    // "search.exclude": {
+    //     "build/": true,
+    // },
+
+    //// Tema
+    "workbench.colorTheme": "Visual Studio Dark",
+
+    //// Terminal
+    // Command Prompt
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+
+}

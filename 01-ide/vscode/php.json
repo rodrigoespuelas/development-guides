@@ -1,0 +1,175 @@
+{
+	// Place your snippets for php here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	// https://github.com/Microsoft/vscode/blob/master/extensions/php/snippets/php.snippets.json
+	// https: //gist.github.com/saintplay/880b71fffe94eb1ad02756852324328e
+
+	"php_expand_tag_inline": {
+		"prefix": "<?php",
+		"body": [
+			"<?php $1 ?>"
+		],
+		"description": "** Expand PHP Tag inline",
+	},
+
+	"php_expand_tag_multiline": {
+		"prefix": "<?php",
+		"body": [
+			"<?php ",
+			"",
+			"\t$1",
+			"",
+			"?>"
+		],
+		"description": "** Expand PHP Tag multiline"
+	},
+
+	"php_define(…, …)": {
+		"prefix": "define",
+		"body": [
+			"define('$1', ${2:'$3'});",
+			"$0"
+		],
+		"description": "* Definition constant"
+	},
+
+	"php_echo": {
+		"prefix": "echo",
+		"body": ["<?php echo \\$${1:variable}; ?>"],
+		"description": "** echo ",
+	},	
+
+	"php_var_dump": {
+		"prefix": "var_dump",
+		"body": [
+			"echo '<pre>'; var_dump($1); echo '</pre>';"
+		],
+		"description": "** var_dump()"
+	},
+
+	"php_console_log": {
+		"prefix": "console_log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "** Log output to console"
+	},
+
+	"php_if": {
+		"prefix": "php_if",
+		"body": ["<?php if (\\$${1:variable}==\"${2:1}\") { ?>"],
+		"description": "** php if() {",
+	},
+
+	"php_endif": {
+		"prefix": "php_endif",
+		"body": [
+			"<?php } ?>"
+		],
+		"description": "** php endif }",
+	},
+
+	"php_if_isset_inline": {
+		"prefix": "php_if_isset_inline",
+		"body": ["<?php if (isset(\\$${1:variable})) echo \\$${1:variable}; ?>"],
+		"description": "** php if (isset())",
+	},
+
+	"php_if_not_isnull_inline": {
+		"prefix": "php_if_not_isnull_inline",
+		"body": [
+			"<?php if (!is_null(\\$${1:variable})) echo \\$${1:variable}; ?>"
+		],
+		"description": "** if (!is_null())",
+	},
+
+	"php_ifelse": {
+		"prefix": "php_if_elseif_else",
+		"body": ["<?php if(\\$sexo==\"F\") echo ${1:\"Sra.\"}; else if(\\$sexo==\"M\") echo ${2:\"Sr.\"}; else echo  ${3:\"Sr.(a)\"}; ?>"],
+		"description": "** if elseif else",
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"if …": {
+		"prefix": "if",
+		"body": [
+			"if (${1:condition}) {",
+			"\t${0:# code...}",
+			"}"
+		],
+		"description": "* If block"
+	},
+
+	"if … else …": {
+		"prefix": "ifelse",
+		"body": [
+			"if (${1:condition}) {",
+			"\t${2:# code...}",
+			"} else {",
+			"\t${3:# code...}",
+			"}",
+			"$0"
+		],
+		"description": "* If Else block"
+	},
+
+	"while …": {
+		"prefix": "while",
+		"body": [
+			"while (${1:$${2:a} <= ${3:10}}) {",
+			"\t${0:# code...}",
+			"}"
+		],
+		"description": "* While-loop"
+	},
+
+	"foreach …": {
+		"prefix": "foreach",
+		"body": [
+			"foreach ($${1:variable} as $${2:key} ${3:=> $${4:value}}) {",
+			"\t${0:# code...}",
+			"}"
+		],
+		"description": "* Foreach loop"
+	}
+}
