@@ -38,6 +38,7 @@ Objetivo:
 Tips:
     Ctrl + Alt+ ↑ / ↓
 ~~~~    
+#### Definiciones y snippets
 ~~~~    
 Objetivo:
     Ver rápidamente las definiciones de la clase
