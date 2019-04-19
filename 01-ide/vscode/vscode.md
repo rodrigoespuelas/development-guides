@@ -38,7 +38,15 @@ Objetivo:
 Tips:
     Ctrl + Alt+ ↑ / ↓
 ~~~~    
-
+~~~~    
+Objetivo:
+    Ver rápidamente las definiciones de la clase
+    También funciona con archivos HTML y otros
+Tips:
+    Ctrl + P => luego escribir la @
+    Ctrl + Shift = O
+    Se pueden agrupar si después de la @, se escriben :
+~~~~    
 
 #### Extensiones
 
