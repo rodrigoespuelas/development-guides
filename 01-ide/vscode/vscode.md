@@ -49,11 +49,19 @@ Tips:
 ~~~~    
 ~~~~    
 Objetivo:
-    Manejar TODOS:
+    Ir auna linea
 Tips:
     Ctrl + G
     Ctrl + P => luego escribir la :
 ~~~~    
+# Tips
+```
+command + P : Markdown Open Preview
+command + P : Markdown Open Preview to the side
+
+Ctrl + P : Markdown Open Preview
+Ctrl + P : Markdown Open Preview to the side
+```
 #### Extensiones
 
 ##### GIT
