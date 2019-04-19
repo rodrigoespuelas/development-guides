@@ -47,7 +47,13 @@ Tips:
     Ctrl + P => luego escribir la @
     Se pueden agrupar si después de la @, se escriben :
 ~~~~    
-
+~~~~    
+Objetivo:
+    Manejar TODOS:
+Tips:
+    Ctrl + G
+    Ctrl + P => luego escribir la :
+~~~~    
 #### Extensiones
 
 ##### GIT
