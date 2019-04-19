@@ -61,6 +61,14 @@ Tips:
     Ctrl + P : Markdown Open Preview
     Ctrl + P : Markdown Open Preview to the side
 ~~~~    
+~~~~   
+Objetivo:
+    Cambiar únicamente la refencia de SuperHeroe a Heroe
+    OJO!: Pero no reemplazar los strings
+Tips:
+    Replace Symbol
+    F2
+~~~~   
 #### Extensiones
 
 ##### GIT
