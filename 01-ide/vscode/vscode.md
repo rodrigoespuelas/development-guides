@@ -71,6 +71,8 @@ Tips:
 ~~~~   
 #### Extensiones
 [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
+https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 ##### GIT
 [GitLens](https://gitlens.amod.io/)  
 ##### PHP
