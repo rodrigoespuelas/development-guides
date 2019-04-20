@@ -75,7 +75,7 @@ Tips:
 [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)  
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)  
 https://gist.github.com/Klerith/5a572bf9835b090d4cd8304d523365c7  
 ##### GIT
 [GitLens](https://gitlens.amod.io/)  
