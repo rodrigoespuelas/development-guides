@@ -83,4 +83,8 @@ https://gist.github.com/Klerith/5a572bf9835b090d4cd8304d523365c7
 [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane)  
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)  
 ##### Laravel
-[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)  
+
+##### Api Test  
+https://pokeapi.co/  
+
