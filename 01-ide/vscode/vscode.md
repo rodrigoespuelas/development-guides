@@ -70,7 +70,7 @@ Tips:
     F2
 ~~~~   
 #### Extensiones
-
+[Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
 ##### GIT
 [GitLens](https://gitlens.amod.io/)  
 ##### PHP
