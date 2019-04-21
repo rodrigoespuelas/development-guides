@@ -1,5 +1,6 @@
 #### Extensiones
 ##### General
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 * [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)  
