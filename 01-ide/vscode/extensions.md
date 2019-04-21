@@ -16,7 +16,7 @@
 ##### Apache
 * [Apache Conf :: Apache conf syntax support for VS Code](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 ##### GIT
-* [GitLens](https://gitlens.amod.io/)  
+* [__GitLens__ :: Visualize code authorship at a glance.](https://gitlens.amod.io/)  
 ##### HTML
 * [__Auto Close Tag__ :: Automatically add HTML/XML close tag. 17/2/2018](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
