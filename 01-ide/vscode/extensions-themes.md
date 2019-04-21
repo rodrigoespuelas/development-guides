@@ -30,6 +30,7 @@ https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20P
 * [__Auto Close Tag__ :: Automatically add HTML/XML close tag. 17/2/2018](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 ##### Drupal
+https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code
 * [Drupal Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
 ##### PHP
 * [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane)  
