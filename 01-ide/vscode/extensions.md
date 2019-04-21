@@ -18,7 +18,7 @@
 ##### GIT
 * [GitLens](https://gitlens.amod.io/)  
 ##### HTML
-* [__Auto Close Tag__ :: Automatically add HTML/XML close tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [__Auto Close Tag__ :: Automatically add HTML/XML close tag. 17/2/2018](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 ##### Drupal
 * [Drupal Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
