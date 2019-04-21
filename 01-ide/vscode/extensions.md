@@ -1,4 +1,5 @@
 #### Extensiones
+##### General
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)  
 [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
