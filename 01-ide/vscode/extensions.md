@@ -16,6 +16,6 @@
 ##### Laravel
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)  
 ##### Vue
-* [DotENV](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+* [Ventur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 ##### Api Test  
 * https://pokeapi.co/  
