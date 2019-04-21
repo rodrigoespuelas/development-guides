@@ -1,6 +1,8 @@
 #### Extensiones
 ##### General
 * [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. 20/3/2019](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+* [__Prettier - Code formatter__ :: Format your JavaScript / TypeScript / CSS. 	
+31/1/2019](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [__Bracket Pair Colorizer 2__ :: Matching brackets to be identified with colours. 	
 28/2/2019](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) 
 * [__Bookmarks__ :: Mark and Jump 11/4/2019](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)  
