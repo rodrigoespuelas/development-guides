@@ -1,3 +1,8 @@
+#### Themes
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+
+
 #### Extensiones
 ##### General
 * [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. 20/3/2019](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
