@@ -10,7 +10,7 @@
 * https://gist.github.com/Klerith/5a572bf9835b090d4cd8304d523365c7  
 
 ##### Apache
-[Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
+* [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 ##### GIT
 * [GitLens](https://gitlens.amod.io/)  
 ##### PHP
