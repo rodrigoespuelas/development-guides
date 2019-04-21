@@ -3,7 +3,8 @@
 * [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. 20/3/2019](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 * [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
-* [Bracket Pair Colorizer 2 :: matching brackets to be identified with colours](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)  
+* [Bracket Pair Colorizer 2 :: Matching brackets to be identified with colours. 	
+28/2/2019](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)  
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)  
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
