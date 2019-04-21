@@ -1,6 +1,7 @@
 #### Themes
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+* [__Monokai Pro__](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+* [__Material Icon Theme__](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [__Material Theme__](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
 
 #### Extensiones
