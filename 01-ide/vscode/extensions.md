@@ -1,6 +1,7 @@
 #### Extensiones
 ##### General
-* [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. ](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+* [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. Last updated
+20/3/2019 10:07:11 ](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 * [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
 * [Bracket Pair Colorizer 2 :: matching brackets to be identified with colours](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)  
