@@ -6,6 +6,7 @@ https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy
 
 
 #### Extensiones
+https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20Packs&sortBy=Raing
 ##### General
 * [__Beautify__ :: Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. 20/3/2019](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 * [__Prettier - Code formatter__ :: Format your JavaScript / TypeScript / CSS. 	
