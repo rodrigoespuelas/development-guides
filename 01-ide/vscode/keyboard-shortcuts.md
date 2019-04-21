@@ -1,5 +1,6 @@
 #### Teclas
 [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
+https://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/
 ~~~~ 
 Objetivo:
     Ordenar <li> o lineas
