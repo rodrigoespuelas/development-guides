@@ -15,7 +15,7 @@ https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20P
 28/2/2019](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) 
 * [__Bookmarks__ :: Mark and Jump 11/4/2019](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)  
 * [__Todo Tree__ :: Found TODOs. 17/4/2019](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)  
-* [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
+* [__empty-indent__ :: Remove indent of empty lines on save](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)  
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
