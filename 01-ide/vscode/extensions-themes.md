@@ -30,14 +30,14 @@ https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20P
 ##### HTML
 * [__Auto Close Tag__ :: Automatically add HTML/XML close tag. 17/2/2018](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+##### PHP
+* [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane)  
+* [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)  
 ##### Drupal
 https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code
 * [__Drupal Syntax Highlighting__](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
 * [__Drupal-7-Snippets__](https://marketplace.visualstudio.com/items?itemName=juniormucciolo.drupal-7-snippets)
 * [__Drupal-7-Hooks-Snippets__](https://marketplace.visualstudio.com/items?itemName=pauloamgomes.drupal7-hooks-snippets)
-##### PHP
-* [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane)  
-* [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)  
 ##### Laravel
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)  
 ##### Vue
