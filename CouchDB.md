@@ -1,1 +1,2 @@
-http://couchdb.apache.org/
+http://couchdb.apache.org/  
+http://localhost:5984/  
