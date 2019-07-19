@@ -1,2 +1,2 @@
-https://softwarecrafters.io/react/tutorial-react-js-introduccion
-https://reactjs.org/versions
+https://softwarecrafters.io/react/tutorial-react-js-introduccion  
+https://reactjs.org/versions  
