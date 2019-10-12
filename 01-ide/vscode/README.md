@@ -5,12 +5,13 @@ https://code.visualstudio.com/docs/?dv=win64user&build=insiders
 C:\Users\Oper\AppData\Local\Programs\Microsoft VS Code
 C:\Users\Oper\AppData\Local\Programs\Microsoft VS Code Insiders
 
+### Path
 C:\Users\Oper\AppData\Roaming\Code  
 C:\Users\Oper\AppData\Roaming\Code - Insiders
 
 #### Snippets  
-C:\Users\Oper\AppData\Roaming\Code\User\snippets
-%USERPROFILE%\AppData\Roaming\Code\User\snippets
+C:\Users\Oper\AppData\Roaming\Code\User\snippets  
+%USERPROFILE%\AppData\Roaming\Code\User\snippets  
 php.json
 
 #### Extensions
