@@ -1,3 +1,7 @@
+#### Tips
+https://dev.to/glaucia86/14-tips-para-optimizar-su-visual-studio-code-40ia  
+
+
 #### Themes
 https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Rating
 * [__Monokai Pro__](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
