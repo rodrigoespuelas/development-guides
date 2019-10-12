@@ -1,5 +1,6 @@
 #### Tips
 https://dev.to/glaucia86/14-tips-para-optimizar-su-visual-studio-code-40ia  
+https://www.makeuseof.com/tag/10-essential-productivity-tips-visual-studio-code/  
 
 
 #### Themes
