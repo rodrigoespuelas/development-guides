@@ -1,11 +1,10 @@
+### Descarga
 https://code.visualstudio.com/docs/?dv=win64user   
 https://code.visualstudio.com/docs/?dv=win64user&build=insiders
 
-
-
-
-
+C:\Users\Oper\AppData\Local\Programs\Microsoft VS Code
 C:\Users\Oper\AppData\Local\Programs\Microsoft VS Code Insiders
+
 
 
 
