@@ -1,4 +1,4 @@
-### Descarga
+#### Descarga
 https://code.visualstudio.com/docs/?dv=win64user   
 https://code.visualstudio.com/docs/?dv=win64user&build=insiders
 
@@ -13,6 +13,6 @@ C:\Users\Oper\AppData\Roaming\Code
 C:\Users\Oper\.vscode\extensions  
 %USERPROFILE%\.vscode\extensions
 
-snippets
+#### Snippets  
 C:\Users\Oper\AppData\Roaming\Code\User\snippets  
 php.json
